@@ -20,7 +20,7 @@ For details, you can check this [Kaggle competition](https://www.kaggle.com/c/ap
 A `ResNet50` model is trained using this data for the classification task.
 
 # Model and Data
-The pre-trained model and data are available in this [Google Drive](https://drive.google.com/drive/u/0/folders/19vZQ99aaLhyodnKZ-zSevzDqlH3VQd51).
+The pre-trained model and data are available in this [Google Drive](https://drive.google.com/drive/folders/1X_tTwEixtZdkVWrCae3LK7maP6m2wF4T?usp=drive_link).
 
 # Notebooks
 This repository contains two notebooks. 
