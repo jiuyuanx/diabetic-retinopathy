@@ -1,7 +1,7 @@
-This repository contains the resources for the explainable policy homework.
+This repository contains the resources for the explainability homework.
 
-# The Use Case: Blindness Detection
-The use case is to detect diabetic retinopathy to stop blindness before it's too late.
+# The Use Case: Blindness Detection 
+The use case is to detect diabetic retinopathy to stop blindness before it's too late. Consider you are building a smartphone app that could be used by end users to self-diagnose potential problems simply by looking into the smart phone's camera. Deploying such medical diagnoistics as a smart phone app has the potential to drastically reduce screening costs and make screenings much more available, especially in underresourced regions of the world. The app would provide information about a potential risk and encourage the user to get in contact with medical professionals for testing and potential treatment. In this assignment, you will focus on the model, but also consider its integration into a smartphone app.
 
 You are provided with a large set of retina images taken using fundus photography under a variety of imaging conditions.
 A clinician has rated each image for the severity of diabetic retinopathy on a scale of 0 to 4:
