@@ -1,4 +1,10 @@
+# Explanation:
+[Global](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/global/global.html)
+[IndividualExample1](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/example1/test1.html)
+[IndividualExample2](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/example2/test2.html)
+
 This repository contains the resources for the explainability homework.
+
 
 # The Use Case: Blindness Detection 
 The use case is to detect [diabetic retinopathy](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/diabetic-retinopathy) to stop blindness before it's too late. 
