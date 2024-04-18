@@ -1,7 +1,7 @@
 # Explanation:
-[Global](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/global/global.html)
-[IndividualExample1](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/example1/test1.html)
-[IndividualExample2](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/example2/test2.html)
+[Global](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/global/global.html)  
+[IndividualExample1](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/example1/test1.html)  
+[IndividualExample2](https://htmlpreview.github.io/?https://github.com/jiuyuanx/diabetic-retinopathy/blob/main/example2/test2.html)  
 
 This repository contains the resources for the explainability homework.
 
